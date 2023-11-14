@@ -1,0 +1,15 @@
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\bin\Debug\net7.0\Starter Assignment CIS-151.exe
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\bin\Debug\net7.0\Starter Assignment CIS-151.deps.json
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\bin\Debug\net7.0\Starter Assignment CIS-151.runtimeconfig.json
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\bin\Debug\net7.0\Starter Assignment CIS-151.dll
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\bin\Debug\net7.0\Starter Assignment CIS-151.pdb
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\obj\Debug\net7.0\Starter Assignment CIS-151.csproj.AssemblyReference.cache
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\obj\Debug\net7.0\Starter Assignment CIS-151.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\obj\Debug\net7.0\Starter Assignment CIS-151.AssemblyInfoInputs.cache
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\obj\Debug\net7.0\Starter Assignment CIS-151.AssemblyInfo.cs
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\obj\Debug\net7.0\Starter Assignment CIS-151.csproj.CoreCompileInputs.cache
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\obj\Debug\net7.0\Starter Assignment CIS-151.dll
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\obj\Debug\net7.0\refint\Starter Assignment CIS-151.dll
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\obj\Debug\net7.0\Starter Assignment CIS-151.pdb
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\obj\Debug\net7.0\Starter Assignment CIS-151.genruntimeconfig.cache
+C:\Users\deaco\source\Workspaces\CIS151-103\Starter Assignment CIS-151\Starter Assignment CIS-151\obj\Debug\net7.0\ref\Starter Assignment CIS-151.dll

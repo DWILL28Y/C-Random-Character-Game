@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Starter Assignment CIS-151/1.0.0": {
+        "runtime": {
+          "Starter Assignment CIS-151.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Starter Assignment CIS-151/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
